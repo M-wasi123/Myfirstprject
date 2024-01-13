@@ -1,0 +1,125 @@
+* {
+    /* width: 0%;
+    height: 0%; */
+    padding: 0%;
+    margin: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    -webkit-text-fill-color: aliceblue;
+}
+
+div {
+    margin: auto;
+    width:auto;
+    height: 750px;
+    background-image: radial-gradient(rgb(57, 113, 235), rgb(55, 147, 223), rgb(21, 85, 158));
+position: relative;
+padding: 10px;
+}
+
+#abc1{
+    width: 60px;
+    height: 120px;
+    margin-top: 60px;
+    margin-left: 30px;
+    /* background-color: blue; */
+}
+
+il {
+    margin-left:10px;
+}
+
+#ab1 {
+    margin-left: 450px;
+    width: 70px;
+    height: 30px;
+    border-radius: 70px;
+    background-color: rgb(66, 146, 238);
+    border-style: none;
+}
+
+#ab2 {
+    width: 70px;
+    height: 30px;
+    border-radius: 70px;
+    background-color: orangered;
+    margin-left: 20px;
+    border-style: none;
+    
+}
+a{
+    text-decoration: none;
+}
+
+h4 {
+    margin-left: 40px;
+
+}
+h1{
+    margin-left: 40px;
+
+}
+P{
+    margin-left: 40px; 
+
+}
+.search-box{
+    margin-left: 40px;
+    width: 304 px;
+    height: 35px;
+    color: white;
+    background-color: white;
+    background-image: none;
+    border-style: none;
+    border-radius: 90px;
+    position: absolute;
+    padding: 0%;
+    
+}
+input{
+    /* margin-left: 4px; */
+    border-radius: 60px;
+    height: 15px;
+    border-style: none;
+    -webkit-text-fill-color: rgb(116, 113, 113);
+padding: 10px;
+    outline: none;
+}
+#ab3{
+    width: 100px;
+    height: 35px;
+    border-radius: 70px;
+    background-color: orangered;
+    
+    border-style: none;
+}
+#abc2{
+margin-top: 230px;
+    margin-left: 55%;
+    width: 300px;
+    height: 430px;
+    position: absolute;
+    border-radius: 10px;
+    padding: auto;
+    
+}
+#abc4{
+    text-align: center;
+    width: 40px;
+    margin-top: -320px;
+    margin-left: 1028px;
+    position: absolute;
+    border-radius: 100px;
+    background-color: rgb(9, 98, 214);
+}
+#abc5{
+    font-size: smaller;
+    border-radius: 90%;
+    border-style: none;
+    text-align:right,center;
+    width: 37px;
+    height: 45px;
+    margin-top: 60px;
+    margin-left: 760px;
+    background-color: rgb(223, 74, 15);
+    position: absolute;
+}
